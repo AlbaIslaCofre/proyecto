@@ -1,0 +1,2 @@
+# proyecto
+Análisis del desempeño de las páginas web de películas piratas  Proyecto:  Realizar un estudio sobre páginas web de películas piratas con el fin de determinar y analizar el desempeño que están posee al momento de subir contenido que se encuentran en estreno en los cines con fecha referencial de estados unidos. También se espera determinar, cual es las páginas que posee más interacción con sus espectadores, esto se medirá con comentarios y puntación, para determinar si esta tiene correlación con que sea una película recién estrenada.
